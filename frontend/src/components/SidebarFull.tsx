@@ -200,3 +200,5 @@ const SidebarFull: React.FC =()=>{
         </>
     )
 }
+
+export default SidebarFull
